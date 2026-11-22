@@ -1,0 +1,6 @@
+# Binarios y objetos generados
+pia
+*.o
+
+# Salida generada
+reporte.csv
